@@ -1,0 +1,7 @@
+# Ignorar el archivo de variables de entorno
+.env
+
+# Ignorar configuraciones locales de VSCode
+.vscode/
+
+WHAT_I_AM_DOING.md
