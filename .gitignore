@@ -4,4 +4,5 @@
 # Ignorar configuraciones locales de VSCode
 .vscode/
 
-WHAT_I_AM_DOING.md
+WHAT_I_AM_DOING.md.env
+.vscode/
